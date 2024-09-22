@@ -1,0 +1,1 @@
+# Classification-of-individual-and-combined-Finger-movements-using-Electromyogram-EMG-Signal
